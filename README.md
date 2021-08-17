@@ -5,5 +5,4 @@ Return an array, where the first element is the count of positives numbers and t
 
 If the input array is empty or null, return an empty array.
 
-#################################################################################################################################
-
+#####################################################################################
